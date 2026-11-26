@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1979 - M470A - Input Module.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/0c81ae696da10d55-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1450, 2000],
+  "mm": [313.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [10.2, 3.5, 305.2, 422.7],
+ "outlines": {
+  "line": {"rings": 102, "straight": {"n": 1713, "mm": 4169.0}, "curved": {"n": 324, "mm": 517.8}},
+  "text": {"rings": 85, "straight": {"n": 915, "mm": 1371.5}, "curved": {"n": 175, "mm": 289.8}}
+ },
+ "circles": [{"c": [242.1, 404.2], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [266.9, 402.2, 270.4, 405.7], "w": 3.6, "h": 3.5, "from": "ring"}],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [28.1, 405.9, 149.2, 422.7], "text": "[W'E1S) 84\" :JG,*\"88"},
+   {"mm": [106.9, 416.0, 239.2, 423.7], "text": "WARD-BECK YST EM"},
+   {"mm": [253.7, 416.0, 266.0, 423.7], "text": "LT"},
+   {"mm": [177.0, 408.9, 187.8, 415.2], "text": "ISC.o'"},
+   {"mm": [223.9, 409.3, 247.9, 413.7], "text": "O'lTA.CllO"},
+   {"mm": [106.9, 403.5, 160.2, 408.1], "text": "T1!L.I!.X· Cl!l!l .~3Qg"},
+   {"mm": [244.8, 403.5, 275.3, 408.1], "text": "J43B -e!l~"},
+   {"mm": [122.8, 246.6, 190.6, 257.6], "text": "M470A"},
+   {"mm": [123.1, 233.8, 141.0, 240.5], "text": "INPU"},
+   {"mm": [155.9, 233.8, 190.0, 240.5], "text": "MO DU LE"},
+   {"mm": [267.1, 53.8, 286.5, 62.2], "text": "ps"},
+   {"mm": [256.5, 43.0, 277.0, 53.8], "text": "BS"},
+   {"mm": [235.5, 22.0, 252.8, 28.7], "text": "tp"},
+   {"mm": [228.9, 15.3, 248.5, 22.0], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 313 × 432 mm, 1450 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–305 mm across, 4–423 mm up",
+  "- **Outlines:** line 102 rings, 1,713 straight (4,169 mm) / 324 curved (518 mm); text 85 rings, 915 straight (1,372 mm) / 175 curved (290 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.9 @ (242.1, 404.2)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 23 in 14 lines: [W'E1S) 84\" :JG,*\"88 · WARD-BECK YST EM · LT · ISC.o' · O'lTA.CllO · T1!L.I!.X· Cl!l!l .~3Qg · J43B -e!l~ · M470A · INPU · MO DU LE · ps · BS"
+ ]
+}

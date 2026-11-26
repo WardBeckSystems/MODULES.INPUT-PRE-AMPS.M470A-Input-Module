@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module.pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/1dae3b1cd3b2c281-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1491, 2000],
+  "mm": [321.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.0, 9.9, 311.3, 424.8],
+ "outlines": {
+  "line": {"rings": 7, "straight": {"n": 483, "mm": 3022.8}, "curved": {"n": 35, "mm": 57.4}},
+  "text": {"rings": 456, "straight": {"n": 3821, "mm": 4705.3}, "curved": {"n": 953, "mm": 1519.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 45,
+  "lines": [
+   {"mm": [12.3, 418.8, 134.1, 426.5], "text": "WAAD-BECK SYSTEms LTD_"},
+   {"mm": [123.7, 367.9, 198.2, 378.0], "text": "IABLE_OF_CONTENIS"},
+   {"mm": [120.3, 355.2, 142.9, 363.3], "text": "M4ZQA"},
+   {"mm": [149.6, 353.2, 202.9, 363.5], "text": "INPUI_MODULE"},
+   {"mm": [26.3, 255.8, 58.1, 264.0], "text": "SECILON"},
+   {"mm": [234.5, 254.8, 253.5, 263.4], "text": "PAGE"},
+   {"mm": [72.8, 234.0, 109.2, 243.9], "text": "Warranty"},
+   {"mm": [73.4, 228.4, 134.3, 235.4], "text": "Technical Da ta"},
+   {"mm": [217.2, 228.4, 230.6, 234.9], "text": "7-1"},
+   {"mm": [73.4, 220.6, 104.7, 228.3], "text": "circuit"},
+   {"mm": [107.5, 220.4, 155.2, 229.1], "text": "Description"},
+   {"mm": [217.8, 220.6, 230.8, 227.6], "text": "2 -1"},
+   {"mm": [234.5, 220.2, 261.5, 227.9], "text": "t0 2-3"},
+   {"mm": [73.4, 213.3, 142.9, 221.5], "text": "High-Pas $ Filter"},
+   {"mm": [217.8, 213.7, 230.8, 220.7], "text": "3 -1"},
+   {"mm": [73.4, 206.8, 117.7, 214.3], "text": "Parts List"},
+   {"mm": [217.8, 206.2, 243.5, 213.7], "text": "4 -1 t0"},
+   {"mm": [247.0, 206.8, 261.0, 213.8], "text": "4-7"},
+   {"mm": [73.0, 183.7, 109.7, 193.3], "text": "Drawings"},
+   {"mm": [128.9, 171.6, 150.5, 179.3], "text": "Pane]"},
+   {"mm": [73.4, 171.0, 125.7, 179.1], "text": "M4zoa Front"},
+   {"mm": [217.6, 170.3, 265.3, 179.0], "text": "B470-04-006"},
+   {"mm": [73.8, 164.1, 146.2, 171.8], "text": "M47OA Functiona]"},
+   {"mm": [217.0, 163.7, 265.3, 172.3], "text": "B470-01-002"},
+   {"mm": [73.4, 156.7, 142.9, 165.3], "text": "M470a Schematic"},
+   {"mm": [217.2, 156.5, 269.4, 164.2], "text": "LB47O-02-002"},
+   {"mm": [73.8, 150.1, 96.5, 157.7], "text": "M47OA"},
+   {"mm": [103.0, 148.5, 172.9, 158.1], "text": "Component Layout"},
+   {"mm": [217.8, 149.4, 265.3, 157.1], "text": "B470-06- 002"},
+   {"mm": [73.8, 142.5, 96.5, 150.7], "text": "M470A"},
+   {"mm": [103.6, 142.3, 172.7, 150.9], "text": "Connector Layout"},
+   {"mm": [217.8, 142.5, 265.3, 150.2], "text": "B4 70-04-005"},
+   {"mm": [217.2, 42.1, 283.0, 51.4], "text": "MANUAL LSSUE #5"},
+   {"mm": [216.8, 28.5, 260.8, 36.7], "text": "MARCH 1979"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 322 × 432 mm, 1491 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–311 mm across, 10–425 mm up",
+  "- **Outlines:** line 7 rings, 483 straight (3,023 mm) / 35 curved (57.4 mm); text 456 rings, 3,821 straight (4,705 mm) / 953 curved (1,520 mm)",
+  "- **Words (OCR):** 45 in 34 lines: WAAD-BECK SYSTEms LTD_ · IABLE_OF_CONTENIS · M4ZQA · INPUI_MODULE · SECILON · PAGE · Warranty · Technical Da ta · 7-1 · circuit · Description · 2 -1"
+ ]
+}

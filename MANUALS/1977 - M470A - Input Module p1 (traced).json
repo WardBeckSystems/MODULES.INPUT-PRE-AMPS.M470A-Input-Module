@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/1dae3b1cd3b2c281-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1446, 2000],
+  "mm": [312.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [12.7, 3.2, 278.9, 431.8],
+ "outlines": {
+  "line": {"rings": 26, "straight": {"n": 1404, "mm": 5585.9}, "curved": {"n": 61, "mm": 119.6}},
+  "text": {"rings": 50, "straight": {"n": 1071, "mm": 4279.1}, "curved": {"n": 88, "mm": 169.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [174.7, 399.8, 268.6, 423.1], "text": "WBS"},
+   {"mm": [174.7, 360.8, 268.8, 384.3], "text": "WBS"},
+   {"mm": [174.7, 320.8, 268.8, 345.3], "text": "WBS"},
+   {"mm": [174.2, 282.0, 268.8, 306.0], "text": "WBS"},
+   {"mm": [174.7, 242.0, 268.8, 266.5], "text": "WBS"},
+   {"mm": [174.7, 202.7, 268.8, 227.2], "text": "WBS"},
+   {"mm": [174.7, 163.9, 268.8, 188.3], "text": "WBS"},
+   {"mm": [172.1, 125.4, 268.4, 148.9], "text": "WBS"},
+   {"mm": [212.0, 97.6, 233.6, 105.7], "text": "M470A"},
+   {"mm": [203.8, 88.1, 249.6, 96.2], "text": "NPUT MODULE"},
+   {"mm": [174.7, 45.6, 269.2, 70.7], "text": "WBS"},
+   {"mm": [172.5, 7.3, 268.8, 31.8], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [165.7, 0.0, 275.6, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M470A", "NPUT MODULE", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 312 × 432 mm, 1446 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 13–279 mm across, 3–432 mm up",
+  "- **Outlines:** line 26 rings, 1,404 straight (5,586 mm) / 61 curved (120 mm); text 50 rings, 1,071 straight (4,279 mm) / 88 curved (169 mm)",
+  "- **Words (OCR):** 12 in 12 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M470A · NPUT MODULE · WBS · WBS",
+  "- **Title block:** (166, 0)–(276, 432) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M470A · NPUT MODULE · WBS · WBS"
+ ]
+}

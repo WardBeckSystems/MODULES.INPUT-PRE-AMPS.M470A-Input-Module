@@ -1,0 +1,61 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1979 - M470A - Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/0c81ae696da10d55-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1446, 2000],
+  "mm": [312.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [13.0, 3.2, 278.9, 431.8],
+ "outlines": {
+  "line": {"rings": 75, "straight": {"n": 2414, "mm": 9601.3}, "curved": {"n": 180, "mm": 383.4}},
+  "text": {"rings": 1, "straight": {"n": 44, "mm": 155.7}, "curved": {"n": 2, "mm": 1.5}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [216.8, 407.4, 234.0, 410.4], "w": 17.3, "h": 3.0, "from": "ring", "words": ["\\NBS"]},
+  {"mm": [216.5, 329.0, 234.1, 332.1], "w": 17.6, "h": 3.0, "from": "ring", "words": ["\\NBS"]},
+  {"mm": [216.5, 289.7, 234.0, 292.8], "w": 17.5, "h": 3.0, "from": "ring", "words": ["\\NBS"]},
+  {"mm": [217.0, 211.4, 234.1, 214.4], "w": 17.2, "h": 3.0, "from": "ring", "words": ["[\\NBS]"]},
+  {"mm": [216.5, 178.5, 233.7, 181.6], "w": 17.2, "h": 3.0, "from": "ring"},
+  {"mm": [216.5, 172.3, 234.0, 175.3], "w": 17.5, "h": 3.0, "from": "ring", "words": ["\\NBS"]},
+  {"mm": [217.0, 133.0, 234.1, 136.0], "w": 17.1, "h": 3.0, "from": "ring", "words": ["\\NBS"]}
+ ],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [175.5, 399.4, 265.6, 418.8], "text": "\\NBS"},
+   {"mm": [175.5, 360.8, 265.6, 380.2], "text": "\\NBS"},
+   {"mm": [175.5, 321.0, 265.6, 340.5], "text": "\\NBS"},
+   {"mm": [175.5, 282.0, 265.6, 301.4], "text": "\\NBS"},
+   {"mm": [175.5, 242.7, 265.6, 262.1], "text": "\\NBS"},
+   {"mm": [163.4, 203.2, 278.7, 222.6], "text": "[\\NBS]"},
+   {"mm": [175.5, 164.3, 265.6, 183.7], "text": "\\NBS"},
+   {"mm": [175.5, 125.2, 265.6, 144.7], "text": "\\NBS"},
+   {"mm": [202.1, 87.9, 247.9, 94.8], "text": "INPUT HODUU"},
+   {"mm": [175.5, 46.9, 285.9, 66.3], "text": "\\NBS ps"},
+   {"mm": [255.8, 42.7, 276.1, 53.3], "text": "BS"},
+   {"mm": [234.9, 21.8, 252.2, 28.5], "text": "tp"},
+   {"mm": [175.5, 8.0, 247.6, 27.4], "text": "\\NB ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 312 × 432 mm, 1446 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 13–279 mm across, 3–432 mm up",
+  "- **Outlines:** line 75 rings, 2,414 straight (9,601 mm) / 180 curved (383 mm); text 1 rings, 44 straight (156 mm) / 2 curved (1.5 mm)",
+  "- **Closed boxes:** 7; named: \\NBS; \\NBS; \\NBS; [\\NBS]; \\NBS; \\NBS",
+  "- **Words (OCR):** 16 in 13 lines: \\NBS · \\NBS · \\NBS · \\NBS · \\NBS · [\\NBS] · \\NBS · \\NBS · INPUT HODUU · \\NBS ps · BS · tp"
+ ]
+}

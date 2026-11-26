@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M470A/MANUALS/1977 - M470A - Input Module.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/1dae3b1cd3b2c281-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1450, 2000],
+  "mm": [313.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "21"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [10.2, 3.6, 305.2, 422.7],
+ "outlines": {
+  "line": {"rings": 3, "straight": {"n": 433, "mm": 2564.6}, "curved": {"n": 52, "mm": 86.3}},
+  "text": {"rings": 161, "straight": {"n": 1994, "mm": 2611.5}, "curved": {"n": 420, "mm": 681.0}},
+  "tb": {"rings": 2, "straight": {"n": 90, "mm": 305.9}, "curved": {"n": 4, "mm": 9.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [107.5, 413.2, 275.7, 423.9], "text": "WARD-BECK SYSTEMS LTD_"},
+   {"mm": [36.1, 405.5, 275.1, 420.1], "text": "WBS 841 PAOGAESS AVENUE: SCAABOAQUGH, ONTAAIO M1h2X4"},
+   {"mm": [106.4, 402.4, 160.8, 407.7], "text": "TELEX: 065-25299"},
+   {"mm": [197.8, 401.4, 274.6, 407.3], "text": "TELEPHONE; 2161438-6550"},
+   {"mm": [123.1, 246.6, 190.4, 260.0], "text": "M4OA"},
+   {"mm": [121.8, 233.6, 147.7, 241.8], "text": "INPUT"},
+   {"mm": [155.2, 233.6, 190.2, 242.2], "text": "MODULE"},
+   {"mm": [62.8, 3.0, 209.6, 8.7], "text": "DESICN AND MANUFACTUPE Of PROFESS'ONAL AJDID"},
+   {"mm": [210.1, 2.2, 242.7, 8.9], "text": "EQUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [29.9, 396.7, 254.6, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD_", "WBS 841 PAOGAESS AVENUE: SCAABOAQUGH, ONTAAIO M1h2X4", "TELEX: 065-25299", "TELEPHONE; 2161438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 313 × 432 mm, 1450 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–305 mm across, 4–423 mm up",
+  "- **Outlines:** line 3 rings, 433 straight (2,565 mm) / 52 curved (86.3 mm); text 161 rings, 1,994 straight (2,612 mm) / 420 curved (681 mm); tb 2 rings, 90 straight (306 mm) / 4 curved (9.4 mm)",
+  "- **Words (OCR):** 14 in 9 lines: WARD-BECK SYSTEMS LTD_ · WBS 841 PAOGAESS AVENUE: SCAABOAQUGH, ONTAAIO M1h2X4 · TELEX: 065-25299 · TELEPHONE; 2161438-6550 · M4OA · INPUT · MODULE · DESICN AND MANUFACTUPE Of PROFESS'ONAL AJDID · EQUIPMENT",
+  "- **Title block:** (30, 397)–(255, 432) mm: WARD-BECK SYSTEMS LTD_ · WBS 841 PAOGAESS AVENUE: SCAABOAQUGH, ONTAAIO M1h2X4 · TELEX: 065-25299 · TELEPHONE; 2161438-6550"
+ ]
+}
