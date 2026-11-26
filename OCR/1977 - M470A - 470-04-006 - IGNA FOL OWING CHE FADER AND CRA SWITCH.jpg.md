@@ -22,7 +22,7 @@ Wiki page: [M470A](../../../../PAGES/M470A.md)
 - **Words (OCR):** 355 in 211 lines: WBS · M470a · MASTER ASSiGNMENT switch SWI7: When depressed · LEFT · MASTER · output · Ass IGNMENT Sitch · T9AsTER Fed M2 . · Sw2I · via · Whendepressed RIGHT · summing resistors
 - **Title block:** (165, 0)–(432, 307) mm: WBS · M470a · MASTER · output · Ass IGNMENT Sitch · T9AsTER Fed M2 . · Sw2I · via · Whendepressed RIGHT · summing resistors · externa · 5 Uring bus · SUBMA STER · ASS IGNMENT switches · ShIB and Sw19 
 
-Every curve, box, word and wire group: [1977 - M470A - 470-04-006 - IGNA FOL OWING CHE FADER AND CRA SWITCH (traced).json](../MECHANICAL/1977%20-%20M470A%20-%20470-04-006%20-%20IGNA%20FOL%20OWING%20CHE%20FADER%20AND%20CRA%20SWITCH%20(traced).json) (the CAD file: `1977 - M470A - 470-04-006 - IGNA FOL OWING CHE FADER AND CRA SWITCH (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - 470-04-006 - IGNA FOL OWING CHE FADER AND CRA SWITCH (traced).json](../MECHANICAL/1977%20-%20M470A%20-%20470-04-006%20-%20IGNA%20FOL%20OWING%20CHE%20FADER%20AND%20CRA%20SWITCH%20%28traced%29.json) (the CAD file: `1977 - M470A - 470-04-006 - IGNA FOL OWING CHE FADER AND CRA SWITCH (traced).dxf`).
 
 ## Full text
 

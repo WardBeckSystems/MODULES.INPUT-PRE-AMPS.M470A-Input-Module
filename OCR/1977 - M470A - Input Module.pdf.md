@@ -27,7 +27,7 @@ Wiki page: [M470A](../../../../PAGES/M470A.md)
 - **Words (OCR):** 12 in 12 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M470A · NPUT MODULE · WBS · WBS
 - **Title block:** (166, 0)–(276, 432) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M470A · NPUT MODULE · WBS · WBS
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p1 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p1%20(traced).json) (the CAD file: `1977 - M470A - Input Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p1 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p1%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -37,7 +37,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p1 (traced).
 - **Words (OCR):** 14 in 9 lines: WARD-BECK SYSTEMS LTD_ · WBS 841 PAOGAESS AVENUE: SCAABOAQUGH, ONTAAIO M1h2X4 · TELEX: 065-25299 · TELEPHONE; 2161438-6550 · M4OA · INPUT · MODULE · DESICN AND MANUFACTUPE Of PROFESS'ONAL AJDID · EQUIPMENT
 - **Title block:** (30, 397)–(255, 432) mm: WARD-BECK SYSTEMS LTD_ · WBS 841 PAOGAESS AVENUE: SCAABOAQUGH, ONTAAIO M1h2X4 · TELEX: 065-25299 · TELEPHONE; 2161438-6550
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p2 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p2%20(traced).json) (the CAD file: `1977 - M470A - Input Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p2 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p2%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -46,7 +46,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p2 (traced).
 - **Outlines:** line 7 rings, 483 straight (3,023 mm) / 35 curved (57.4 mm); text 456 rings, 3,821 straight (4,705 mm) / 953 curved (1,520 mm)
 - **Words (OCR):** 45 in 34 lines: WAAD-BECK SYSTEms LTD_ · IABLE_OF_CONTENIS · M4ZQA · INPUI_MODULE · SECILON · PAGE · Warranty · Technical Da ta · 7-1 · circuit · Description · 2 -1
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p3 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p3%20(traced).json) (the CAD file: `1977 - M470A - Input Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p3 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p3%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -56,7 +56,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p3 (traced).
 - **Words (OCR):** 229 in 119 lines: WARD-BECK · Bystems LTD · RARRAMIX · A11 Ward-Beck · Systems Ltd · products are · warranted · against · dcfective materials · and workmansh ip for · period 0 F one · year
 - **Title block:** (2, 70)–(262, 432) mm: WARD-BECK · Bystems LTD · RARRAMIX · A11 Ward-Beck · Systems Ltd · products are · warranted · against · dcfective materials · and workmansh ip for · period 0 F one · year · from da te 0 f · shipment ·
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p4 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p4%20(traced).json) (the CAD file: `1977 - M470A - Input Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p4 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p4%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -66,7 +66,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p4 (traced).
 - **Dots (junctions):** 2
 - **Words (OCR):** 168 in 92 lines: WAAD-BECK Systems LTD · IECHNICAL DAIA · M4ZOAIAPUL_MODULE · Input Sensitivities: · Line: · 10 · +20 dBm · (re f 600 ohm source) · Mic Pad: · -40 to · -10 · dBm (ref 150 ohm source
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p5 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p5%20(traced).json) (the CAD file: `1977 - M470A - Input Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p5 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p5%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -76,7 +76,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p5 (traced).
 - **Words (OCR):** 277 in 115 lines: WARD-BECK SysTemS LTD; · CIRCUI DESCRIPIION · M47OA INPUI_MODULE · The M47oA input · module Provides the facilities 0 f · complete · input mixing channe] with the exception the attenuator and · 0 f · an · optiona ] externa| equalizer. · Lnput · InPUt Selector
 - **Title block:** (5, 153)–(238, 432) mm: WARD-BECK SysTemS LTD; · CIRCUI DESCRIPIION · M47OA INPUI_MODULE · The M47oA input · module Provides the facilities 0 f · input mixing channe] with the exception the attenuator and · 0 f · an · option
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p6 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p6%20(traced).json) (the CAD file: `1977 - M470A - Input Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p6 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p6%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -87,7 +87,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p6 (traced).
 - **Words (OCR):** 258 in 116 lines: WAAD-BECK SYStemS LTD · CIRCUIIDESCRIPTION · M4ZQA · MODUL E · consisting 0 f 21 · Q6 07 , 22 · 08 and 09 The · actively balanced · subsequentiy routed through PHASE reversa ] switch · output is · the · the
 - **Title block:** (4, 411)–(116, 432) mm: WAAD-BECK SYStemS LTD
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p7 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p7%20(traced).json) (the CAD file: `1977 - M470A - Input Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p7 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p7%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -97,7 +97,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p7 (traced).
 - **Dots (junctions):** 1
 - **Words (OCR):** 202 in 83 lines: WAAD-BECK Systems LTD_ · CIRCUII DESCRIPIION · M4ZOA InPUT MODULE · put at connector · P2 · pins 3/C. This output is · designed t0 · operate into · bridging Toad of 10k ohm or higher · The · nomina 1 Teve1 · 0 f the DIRECT output is dBm
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p8 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p8%20(traced).json) (the CAD file: `1977 - M470A - Input Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p8 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p8%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -107,7 +107,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p8 (traced).
 - **Closed boxes:** 965
 - **Words (OCR):** 17 in 15 lines: WAAD-BECK Systems LTD. · WIGH-PASS_FEILTER_CHARACTERLSTICS · M4ZOA INPUL MQDULE · ~10 · 20 · 30 · 10 · 20 · 30 · 50 · 100 · 200 300
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p9 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p9%20(traced).json) (the CAD file: `1977 - M470A - Input Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p9 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p9%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -116,7 +116,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p9 (traced).
 - **Outlines:** line 130 rings, 1,100 straight (3,863 mm) / 239 curved (350 mm); text 1,144 rings, 9,767 straight (11,128 mm) / 3,048 curved (4,641 mm)
 - **Words (OCR):** 141 in 123 lines: WARD-BECK Systems LTD · RARIS LIST · M470a INPUT MODULE · PART DESCRIPTION · MEG · MEG_PARI_NUMBER · C1 · 0.047 uF · Capacitor · Aselco · cq92-MC-473m · C2
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p10 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p10%20(traced).json) (the CAD file: `1977 - M470A - Input Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p10 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p10%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -126,7 +126,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p10 (traced)
 - **Closed boxes:** 2
 - **Words (OCR):** 91 in 83 lines: WARD-BECK · LTD · PARIS LIST · INPUI_MODUL E · M4ZQA · PART · DESCRIPTION · MEG · MEG PART NUMBER · C36 · Capacitor · 22 UF/25 V
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p11 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p11%20(traced).json) (the CAD file: `1977 - M470A - Input Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p11 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p11%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -136,7 +136,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p11 (traced)
 - **Words (OCR):** 89 in 86 lines: WAAD-BECK Systems LTD · PARIS LIST · M4ZOA · INPUL_MODULE · PARI · DESCRIPIION · MFG · MEG_PART_NUMBER · RII · Resistor · YW · 470k
 - **Title block:** (4, 181)–(271, 432) mm: WAAD-BECK Systems LTD · PARIS LIST · M4ZOA · INPUL_MODULE · PARI · DESCRIPIION · MFG · MEG_PART_NUMBER · RII · Resistor · YW · 470k · Philips · RI 2 · 470k · RI3 · 10k · RI4 · 15k · RI5 · 47k · R1 6 ·
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p12 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p12%20(traced).json) (the CAD file: `1977 - M470A - Input Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p12 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p12%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -147,7 +147,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p12 (traced)
 - **Words (OCR):** 86 in 83 lines: WAAD-BECK · SYSTEMS LTD; · PARTS LIST · M47OA · INPUI_MODULE · DESCRIPIION · MFG · PARI · MFG_PARI_NUMBER · R46 · Resistor · 620
 - **Title block:** (6, 409)–(140, 432) mm: WAAD-BECK · SYSTEMS LTD;
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p13 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p13%20(traced).json) (the CAD file: `1977 - M470A - Input Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p13 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p13%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -157,7 +157,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p13 (traced)
 - **Words (OCR):** 92 in 79 lines: WAAD-BECK · SYSTEms LTD · PARTS LIST · M4ZOA INPUT MODULE · PARI DESCRIPIION · MFG · MEG_PARI_NUMBER · R81 · Resistor %W 52 18k · Philips · R82 · 22k
 - **Title block:** (4, 146)–(244, 432) mm: WAAD-BECK · SYSTEms LTD · PARTS LIST · M4ZOA INPUT MODULE · PARI DESCRIPIION · MFG · R81 · Resistor %W 52 18k · Philips · R82 · 22k · R8 3 · 22k · R84 ) · R85 Potentiometer · Bourns · R86 · R87 · R88 
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p14 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p14%20(traced).json) (the CAD file: `1977 - M470A - Input Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p14 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p14%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -168,7 +168,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p14 (traced)
 - **Words (OCR):** 93 in 81 lines: WARD-BECK Systems LTD_ · PARIS LISI · M4ZOA InPUI_MODULE · PARI DESCRIPIION · MFG · MEG PART NUMBER · R116 Resistor YW · 15k · Philips · R117 · 15k · delete
 - **Title block:** (10, 36)–(248, 432) mm: WARD-BECK Systems LTD_ · PARIS LISI · M4ZOA InPUI_MODULE · PARI DESCRIPIION · MFG · R116 Resistor YW · 15k · Philips · R117 · 15k · delete · RI18 · RI19 · R120 · Resistor %W · 15k · Philips · R121 · 1
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p15 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p15%20(traced).json) (the CAD file: `1977 - M470A - Input Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p15 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p15%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -178,7 +178,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p15 (traced)
 - **Words (OCR):** 82 in 62 lines: WARO-BECK Systems LTD; · PARIS LIST · INPUI_MODULE · MEG_PARI_NUMBER · PARI DESCRIPIION · MFG · Switch · Schadow · WBS 11-005 · SW12 · SW13 · WBS 11-002
 - **Title block:** (4, 59)–(243, 432) mm: WARO-BECK Systems LTD; · PARIS LIST · INPUI_MODULE · PARI DESCRIPIION · MFG · Switch · Schadow · SW12 · SW13 · SW4) · SW15 · WBS · SW17) · delete · Sw16 · Sw18 · Sw19 Switch · Schadow · Sw21 ) · Sw20 
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p16 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p16%20(traced).json) (the CAD file: `1977 - M470A - Input Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p16 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p16%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -191,7 +191,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p16 (traced)
 - **Words (OCR):** 357 in 202 lines: WBS · M47oa · RIGHT · MASTER ASsiGNHE"T switct · Sw/7 · When depressed, LEF T · HASTER 455 /GNMENT s4iEch SW2/ : When depressed · eutput · '9RSTER fed SunMing · resistors · bulpuI · 0 , [BFnE
 - **Title block:** (165, 0)–(432, 307) mm: WBS · M47oa · RIGHT · HASTER 455 /GNMENT s4iEch SW2/ : When depressed · eutput · '9RSTER fed SunMing · resistors · externa · 5 UII i 419 · bus · SUBMA STER 452 IGMMENT switches · ShIB and 5w19: Khen ·
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p17 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p17%20(traced).json) (the CAD file: `1977 - M470A - Input Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p17 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p17%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -205,7 +205,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p17 (traced)
 - **Title block:** (287, 0)–(432, 77) mm: DC  CONTROLS ADDED · 11/17 · 10/77 · REDRAWN · ISSUE | DATE · REVISION · APE · WBS WARD-BECK SYSTEMS · DRN GEB · MAzoA · INPUT MODULE · ENG RKB · CKD · FUNCTIONAL · DIAGRAM · APP · SCALE · ISSUE · 470
 - **Wiring (first pass):** 202 connected wire groups from 501 runs; labelled ends: 168 mm → BST; 165 mm → 0 dBm  BRIDGING, COmTROL; 109 mm → PEAK, INDICATOR; 93 mm → JACKS, 0 dBm, ON; 68 mm → INDICATOR
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p18 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p18%20(traced).json) (the CAD file: `1977 - M470A - Input Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p18 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p18%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -216,7 +216,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p18 (traced)
 - **Dots (junctions):** 2
 - **Words (OCR):** 2 in 2 lines: 36 · 87759
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p19 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p19%20(traced).json) (the CAD file: `1977 - M470A - Input Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p19 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p19%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -228,7 +228,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p19 (traced)
 - **Dots (junctions):** 3
 - **Words (OCR):** 62 in 48 lines: 92 · He · 004944 · 4446 9440 · 08 · 2 %8 · Rao · 222 · 4 9 · 439 · 43 98 · 2222
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p20 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p20%20(traced).json) (the CAD file: `1977 - M470A - Input Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p20 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p20%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -239,7 +239,7 @@ Every curve, box, word and wire group: [1977 - M470A - Input Module p20 (traced)
 - **Words (OCR):** 181 in 112 lines: P2 · MASTER Out · LINE in · LINE · IN · MASTER 2 Out · IC · IC · NC · NC · SUB · OuT
 - **Title block:** (259, 5)–(377, 56) mm: WBS WAAD-BECK · DRA: · M47oA · DATE · MAY 77 · CKD. · INput MODULE · [SCALE · CONNECTOR REAR VIEW · TOLS · 470-04-005
 
-Every curve, box, word and wire group: [1977 - M470A - Input Module p21 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p21%20(traced).json) (the CAD file: `1977 - M470A - Input Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M470A - Input Module p21 (traced).json](../MANUALS/1977%20-%20M470A%20-%20Input%20Module%20p21%20%28traced%29.json) (the CAD file: `1977 - M470A - Input Module p21 (traced).dxf`).
 
 ## Full text
 

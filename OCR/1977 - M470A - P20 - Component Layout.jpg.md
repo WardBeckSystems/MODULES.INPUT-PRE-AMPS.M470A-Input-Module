@@ -11,6 +11,19 @@ Wiki page: [M470A](../../../../PAGES/M470A.md)
 - **Size:** 661,553 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 262 mm, 2000 × 1214 px traced (0.216 mm/px)
+- **Ink extent:** 4–432 mm across, 0–260 mm up
+- **Outlines:** line 3,410 rings, 20,118 straight (27,241 mm) / 5,852 curved (5,663 mm); text 912 rings, 5,408 straight (4,426 mm) / 1,889 curved (1,943 mm); tb 37 rings, 229 straight (243 mm) / 67 curved (66.1 mm)
+- **Circles and arcs:** 14 circles, 0 arcs; largest r 4.1 @ (242.9, 182.4), r 4.0 @ (248.0, 192.5), r 2.7 @ (52.6, 233.6), r 2.7 @ (172.6, 234.0)
+- **Closed boxes:** 45 (4 in the title block); named: xi; 38; Inm; 23; USED O4
+- **Dots (junctions):** 3
+- **Words (OCR):** 64 in 49 lines: 21 · 444 · 8,8 · 18 · R35 % · 48 · 22 · xi · ~Rima 2k · 63 28 · 438 89 · 032 93
+- **Title block:** (352, 1)–(418, 30) mm: WBS WAAD-Beck ayat · GB · COMPONENI · INPUT M( · SCALE · 470 - 06
+
+Every curve, box, word and wire group: [1977 - M470A - P20 - Component Layout (traced).json](../SCHEMATICS/1977%20-%20M470A%20-%20P20%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `1977 - M470A - P20 - Component Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 3 words corrected)

@@ -11,6 +11,19 @@ Wiki page: [M470A](../../../../PAGES/M470A.md)
 - **Size:** 689,605 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 262 × 432 mm, 1214 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–260 mm across, 0–428 mm up
+- **Outlines:** line 2,323 rings, 15,024 straight (22,048 mm) / 3,978 curved (3,820 mm); text 859 rings, 4,907 straight (3,935 mm) / 1,728 curved (1,765 mm); tb 1,150 rings, 6,057 straight (5,837 mm) / 1,924 curved (1,929 mm)
+- **Circles and arcs:** 10 circles, 0 arcs; largest r 2.7 @ (233.7, 379.2), r 2.6 @ (234.0, 259.2), r 2.6 @ (234.4, 182.9), r 2.6 @ (234.9, 62.5)
+- **Closed boxes:** 40; named: R3e 10014; WBS 70-017 Sm 4eS -00? R85; Swa 5227
+- **Dots (junctions):** 5
+- **Words (OCR):** 119 in 103 lines: Sw/4 · 5w/7 WBS 847 · Swie 5w2i · wBS 0+8 · Swi Sw4 · wBS 14-031 · Swzi · WBS · 7-104 · CANADA · Ri+- · Ri5
+- **Title block:** (121, 76)–(225, 432) mm: Sw/4 · 5w/7 WBS 847 · Swie 5w2i · wBS 0+8 · Swi Sw4 · wBS 14-031 · Swzi · WBS · 7-104 · CANADA · Ri+- · Ri5 · Rior · Swis Swis · Rio7 · Riac · Swia · Swib · Rizz "5* · Ri25 · Ri3z Gk · -R33 JOk · R28 
+
+Every curve, box, word and wire group: [1977 - M470A - P20 - Component Layout (2) (traced).json](../SCHEMATICS/1977%20-%20M470A%20-%20P20%20-%20Component%20Layout%20%282%29%20%28traced%29.json) (the CAD file: `1977 - M470A - P20 - Component Layout (2) (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

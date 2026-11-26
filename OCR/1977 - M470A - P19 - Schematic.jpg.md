@@ -11,6 +11,20 @@ Wiki page: [M470A](../../../../PAGES/M470A.md)
 - **Size:** 1,150,127 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 140 mm, 2000 × 647 px traced (0.216 mm/px)
+- **Ink extent:** 6–431 mm across, 0–140 mm up
+- **Outlines:** line 2,121 rings, 16,577 straight (19,961 mm) / 3,377 curved (3,630 mm); text 51 rings, 258 straight (160 mm) / 55 curved (53.7 mm)
+- **Centre lines:** 15,640 paths (582 closed); straight 11,812 mm, curved 61.4 mm; horizontal 4,499 mm, vertical 3,353 mm, diagonal 3,959 mm
+- **Circles and arcs:** 1 circles, 17 arcs; largest r 1.0 @ (394.1, 11.5)
+- **Closed boxes:** 39
+- **Dots (junctions):** 6
+- **Words (OCR):** 3 in 3 lines: 37 · 8789 · 059is
+- **Wiring (first pass):** 165 connected wire groups from 1,134 runs, 3 dotted junctions
+
+Every curve, box, word and wire group: [1977 - M470A - P19 - Schematic (traced).json](../SCHEMATICS/1977%20-%20M470A%20-%20P19%20-%20Schematic%20%28traced%29.json) (the CAD file: `1977 - M470A - P19 - Schematic (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 10 words corrected)
