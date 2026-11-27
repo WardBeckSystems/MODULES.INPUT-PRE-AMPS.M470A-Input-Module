@@ -1,0 +1,103 @@
+{
+ "module": "M470A",
+ "source": {
+  "file": "MANUALS/1979 - M470A - Input Module.pdf",
+  "pages": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ]
+ },
+ "ocr_quality": 0.83,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "3 High -P ass Fl1 te r 3-1 • Parts List 4· 1 t o 4-7",
+    "5 Drawings M470 A Front Panel 84 70-04-006 H4 7 0A Functional B4 70-01 · 0 n H470A Schematic L 8 47 0 -0 2 -0 0 2 M4 7 0A Component layout 84 7 0·06-002 H4 7 0A Connector Layout 84 70-04-005"
+   ]
+  },
+  {
+   "heading": "WARRANT Y",
+   "paragraphs": [
+    "de fl!' cth e Materials and workManship fora period year frOM date o f shipMent.",
+    "Ward~ 8e c k SysteMS will repair o r replace. a tits option, without ch. r ge, all said products or parts thereof which, upon fl ct o r y tn spec t ton, proye t o bede f ec the dur 1n9 the warranty pe rfo d pro\\lided that:",
+    "a) Orf9i nal s e r tat nU llb ers are intact and have not been tampered with.",
+    "b) The purchasers hall return any equ i pllent or parts thereof to War dBeck Systems only.. Her ob taf nf n9 p r fora u thor i z a t ion and shipping instructions from the fa cl o r y. Ward ·R e c~ Systems reserves the right to inspector repair u n the purchaser's p r e mfses.",
+    "c) The purchaser assumes the obligation o f.. 11 expenses incurred i nco nn e ct lon.l t h shipping andre turning such goods, once authorization has been obtained.",
+    "This 'oI a rra n ty does not ccve rite ms nor llla l l y considered expendable Such as fuses and lamps.",
+    "ThiS 'oIar r anly does not cover da.a ge s caused by Misuse, accident, neglect. unauthorized alteration. repair by una u thor i zed personnel. o r daM age caused by act of God, war orc i v i l insurrection.",
+    "I n no e\\lent shall Ward-Be ck SysteMS be liable for conse~ quen tlal daMages. Ward·Be ck SysteMS shall have the ri9h t off ina l deterMfnatlon a s tot he applicability of this warranty.",
+    "Sys t eliS reserves the r19ht, at any t tee • to lIlate Ward ~ Beck Cha n9U i n e qu t pee n t, c Olllponent spec ifica t ions and desi9n",
+    "a s lIay be warranted by progress int e ch no l o9Y.",
+    "The w.rranty set forth herein Is i n lieu o fall other war",
+    "ranti e s, express or Implied, including the warranties of Merch an tab fl lty and Fitness.",
+    "Tt CHN ICAL DATA",
+    "Input Sensitivities:",
+    "l1 ne: -10 t o +20 dBm (ref. 600 ohm sour ce!_ Mit Plod: · 40 to -10 dBm (ref. 150 ohll source. Mit: · 60 to -30 dBm (ref. 150 ohll sou rce). Frequency Response: t o. 25 dB (ro. 30 Hz to 20 kHz. Hohe: -125 dBII [IN a t. axillU II sensitivity (20 Hz to 20 kHz). 75 dB SIN ratio or better (or lines enslti vft ies fro ll o to +20 dBm.",
+    "\" \" r mon it Distortion: Less than 0.351 frOIl 30 Hz to 15 kHz at +24 dBII output Dr less. Leu than 0.11 at 1 kHz at +24 dB II out put.",
+    "Source I lIped\"nces:",
+    "line: 150/6 00 OIiIlS, bala need/ unbalanced. Mic: 150011 115, ba l anc ed/ unbalanced.",
+    "Input I llpedances:",
+    "Line: 3D. 000 0lills.",
+    "Mic: 750 01l 1lS llin 1l1uII.",
+    "Out put I lIped\"nce: Less tllan 100 Olills at insert ud di r et tout puts • 600 OhllS, ba l lnced (a t i nsertf on point).",
+    "IDkohlls,b al ance d (a t direct out put).",
+    "Output Level: o dB. nee une t, +26 dBIl lIax illull. Phasing: Input and output terminals designated by numbers are in pllase.",
+    "Power Requirements: ±25 volts dc, 20 mA nominal, 80 mA",
+    "ma xf mum.",
+    "Ambient Temperature: o t o 60 degrees Cel sf us.",
+    "Dimensions: 1.6\" wf de X 14.1 5\" IIf911 X 6.5 \" deep",
+    "(41 mm X 360 mm X 165 mm).",
+    "1• 1",
+    "WA FID -BE CK SYSTEMS L.TD.",
+    "ClRC UIT DESCRIPTION"
+   ]
+  },
+  {
+   "heading": "M4 70A INPUT MODULE",
+   "paragraphs": [
+    "The M4 70A input module provides the facilities of a c o ~p 1 et e input.i ~i ng channel with the e~cepti on oft he attenuator and an optional external equalizer.",
+    "Input INPUT Selector switches SW 1, SW2 and SW3 allow a choice o fin put selection between one 11 ne and two. Ic rop hone inputs. Additionally, SW4 provideS the insert ion of a 20 dB loss pad forth e microphone sources. When operating fro. a MICROPHONEs ource, the input Illp ed ance oft he unit iss ubstant ia l ly higher than the source ill pe dance. In the LINE position. the \",. 70A presents i bridging lmpedance of 30k 01'1. tot hes ource. All inputs t o the lIlodu1e are tra nsfor.er coupled tot he prea lllp l 1f i er. Pr ealllplifl er These condary side of the input trans fo r.e r Tl connects tot he pr e a.pl i fie r input section, c o ~pr i sing Ql through 05 with their associated co. ponent s. SENS ITIY I TY control R26 allows continuous level adjust llle nt of all inputs i gna ls over a range of 30 dB. TheSE NSI TI VI TY control thuS perllli ts operation with.ic ro phone input levels fro. -60 to -30 dB. i n the direct.od e, and with levels fro. -40 t o -10 dBII when the PAD i s inserted. Silllil a r ly. line levels froll -10 dB. t o +20 dB. can be a c c o ~ mod lt e dint he LINE.o de.",
+    "[qu all zer Insert Fo l low1ng Q4 lind Q5. the sign. l is brought out to connector Pl. pin 22 and returned t o the unit vi. Pl, pin Z. This insert point lI.y be used t o insert the 1'14 72 equ a11 ze r into the signal path.",
+    "HIGH -P ASS Filter Following Pl, pin Z, a 12 dB/ octave HI GHPASS filter is i nte. grated f nto the prea mp lifier. Three distinct cutoff fr eque n",
+    "ci e scan be selected, By pressing SWS, SW6 or both switches simultaneously, the - ] dB ro l l-of f point will be located atp s.",
+    "70 Hz, 100 Hz or 150 Hz respectively.",
+    "Pr e amplf f i er Output and PHASE Reversal",
+    "The output of the filter feeds the prea mplif ier outputs ta ge,",
+    "CI RCU ll DESCRIPTION"
+   ]
+  },
+  {
+   "heading": "M4 70A INPUT MODULE",
+   "paragraphs": [
+    "consisting Df Zl, Q6, Q7, Z2, Q8 and Q9. The actively balanced output is subsequently routed through the PHASE reversal switch tD the insert pDint.",
+    "lNS ERT PD int A balanced INSERT point i s provided between P2. pins 8/ J and P2. pins 6/F t D al 1D w the use of insert jacks, permittl ng the 1n sertion of an c l1 1ary equipment l nto the signal path. The INSERT pDi nt is f D11 0w ed by t h ~ CHANNEL ON switch. CHANNEL ON Switch The CHANNEL ON switch SW B controls all Dutpu tS oft he module with the exception of the PFL out put.",
+    "PREF AO ELISTEN (PFL) and PEAK Overload Indicator The bridging takeoff for the PF L output and the PEAK overload indicator is plc ked up between the INSERT point and the CHANNEL ON switch. Z3 operates as a voltage compa rat or. I t compares there ct if ied audio signal with an externally supplied reference voltage, applied t o connector P2, pin 16. With the reference voltage ranging from 0 t o approximately +10 volts, calibration of the overload point from -6 dBm to +27 dBm i s possible. PEAK overload i s indicated on OS2."
+   ]
+  },
+  {
+   "heading": "FAD ER",
+   "paragraphs": [
+    "Following SW 8, the signal i s brought out of the module via P2, pins 7/ H for insertion of a balanced fade r. The output oft he f a der i s returned t o the module on P2, pins 5/£. The inputs ide oft he fa der also supplies the feed for the four PREFACE AU Xl LIARV channels via switches SWg through SW1 2. Booster Amplifier Z4 and Z5 comprise the booster amplifier. operating at again Df",
+    "15 dB. The booster recovers the loss incurred with the fade r",
+    "placed in its nominal 15 dB \"i n-hand \" position.",
+    "DIRECT Out put",
+    "The outputs ig nal o f the booster amplifier feeds the Dl REC Tout"
+   ]
+  },
+  {
+   "heading": "H47 0A INPUT MODULE",
+   "paragraphs": [
+    "put at connector Pl, p\\ns 3/C. This output is designed to operate into abridging load of 10k oh_ or higher. The no.ina l level Of the DIRECT output i s 0 dB•.",
+    "MASTER, SU BMASTE Rand AUXILIARY Outputs The booster a.pl ifier also provides the feeds for the left and right MASTER and SUBMASTER outputs via PAN switch SW13 and PAN control RB4 through R8 7. Additional feeds are supplied to the SOLO out put via SWl2 and t o the four AUXILIARY outputs when in the POSTFAOE mode. With the exception of the DIRECT output, all outputs are designed a s 30k ohm current sources, t o operate into zero impedance summing nodes. Each summing out put is equipped with its own assignment switch.",
+    "Control Functions DC control and logic muting functions are provided through the Hi e/LIN E INPUT Selector switches and the CHANNEL ON switch t o facilitate studio mute control functions. to minimize system transients. the de current i n these circuits should be limited t o I mAo further control contacts are provided on the SOLO switch SW22 as well as on all SUB HAST ER and HASTE R assign ~ent switches.",
+    "Power Supply Deco upl ing Power supply dec oupling i s provided by QIO. Qi land their associated co~pon e n t s. The de coupling network reduces the ~o d u l e voltage t o !20 volts fro. the no_ina l supply voltage o f:!: 25 voles."
+   ]
+  }
+ ]
+}

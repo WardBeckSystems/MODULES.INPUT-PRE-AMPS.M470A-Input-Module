@@ -1,0 +1,231 @@
+{
+ "module": "M470A",
+ "title": "M4ZOA_IAPUL_MODULE",
+ "source": {
+  "file": "MANUALS/1977 - M470A - Input Module.pdf",
+  "page": 5
+ },
+ "ocr_quality": 0.93,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivities",
+   "key": "input_sensitivity",
+   "text": "Line: Mic Pad: Mic: -10:0 +20 dBm (ref. 600 ohm source) -40 to -10 dBm (ref 150 ohm source -60 to -30 dBm (ref. 150 ohm source)",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    },
+    {
+     "from": -40,
+     "to": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 150,
+     "unit": "ohm"
+    },
+    {
+     "from": -60,
+     "to": -30,
+     "unit": "dBm"
+    },
+    {
+     "value": 150,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "±0.25 dB from 30 Hz to 20 kHz",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "-125 dBm EIN at maximum sensitivity (20 Hz to 20 kHz)= 75 dB S/N ratio or better for Tine sensitivities from 0 co +20 dBm.",
+   "quantities": [
+    {
+     "value": -125,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 75,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.35% from 30 Hz to 15 khz at +24 dBm output or Tes $ Less than 0.1X at kHz at +24 dBm output",
+   "quantities": [
+    {
+     "value": 0.35,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 15,
+     "unit": "khz"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "Line: Mic: 150/600 ohms ba Tanced/unbaTanced 150 ohms ba lanced/ unbalanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "Line: Mic: 30,000 ohms 750 ohms minimum.",
+   "quantities": [
+    {
+     "value": 30000,
+     "unit": "ohms"
+    },
+    {
+     "value": 750,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 100 ohms at insert and direct outputs",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms balanced (at insertion Point). TOkohms balanced (at direct output) dBm nominal, +26 dBm maXimum.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 26,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and output terminals designated by numbers are in phase"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+25 volts dc, 20 MA nomina], 80 MAma ximum.",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc"
+    },
+    {
+     "value": 20,
+     "unit": "MA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "0 to 60 degrees Celsius 6 \" wide X 14.15\" high 6.5 \" deep (41 Mm X 360 MM X 165 Mm)",
+   "quantities": [
+    {
+     "from": 0,
+     "to": 60,
+     "unit": "degrees Celsius"
+    },
+    {
+     "value": 6,
+     "unit": "\""
+    },
+    {
+     "value": 14.15,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "Mm"
+    },
+    {
+     "value": 360,
+     "unit": "MM"
+    },
+    {
+     "value": 165,
+     "unit": "Mm"
+    }
+   ]
+  }
+ ]
+}
