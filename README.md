@@ -214,48 +214,108 @@ Not on Google Drive yet: `M470A - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-22 contacts (P1), 22 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 50 of 52 contacts; 2 to check (`conflicts`). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- disagree P2-5: kept ATT OUT - (out); RTO-144 sheet says FADER-RETURN + (in)
+- disagree P2-E: kept ATT OUT + (out); RTO-144 sheet says FADER-RETURN - (in)
+- polarity assumed: 42 contacts given + / − that the drawing does not mark (e.g. P1-A MASTER 2 OUT +) (M470A: 1977 - M470A - 470-04-005 - FIMISH NPUT MODULE CONNECTOR REAR VIEW.jpg)
+
+**Inserts:** EQUALIZER INSERT: EQUAL OUT → EQUAL IN
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | M2 OUT | out | A3 + | high |
-| 1 | LINE IN | in | A1 + | high |
-| 2 |  | unread |  | low |
-| 3 | DIRECT OUT | out | A4 + | high |
-| 5 | FADER RETURN | in | B4 + | high |
-| 6 | INSERT RETURN | in | B2 + | high |
-| 7 | CH ON SWITCH OUT | control | B3 + | high |
-| 8 | INSERT OUT | out | B1 + | high |
-| 11 |  | unread |  | low |
-| 12 |  | unread |  | low |
-| 13 |  | unread |  | low |
-| 14 |  | unread |  | low |
-| 17 |  | unread |  | low |
-| 18 | COMMON | ground |  | high |
-| 19 | MIC IN 1 | in | A2 + | high |
-| 19 | -25 V | power |  | high |
-| 20 | COMMON | ground |  | high |
-| 21 | +25 V | power |  | high |
-| 22 |  | unread |  | low |
-| 22 | CHASSIS | ground |  | high |
-| A | M2 OUT | out | A3 - | high |
-| A | LINE IN | in | A1 - | high |
-| C | DIRECT OUT | out | A4 - | high |
-| E | FADER RETURN | in | B4 - | high |
-| F | INSERT RETURN | in | B2 - | high |
-| H | CH ON SWITCH OUT | control | B3 - | high |
-| J | INSERT OUT | out | B1 - | high |
-| L |  | unread |  | low |
-| N |  | unread |  | low |
-| P |  | unread |  | low |
-| R |  | unread |  | low |
-| S |  | unread |  | low |
-| T |  | unread |  | low |
-| W | MIC IN 1 | in | A2 - | high |
-| X |  | unread |  | low |
-| Y | +24 V | power |  | high |
+| P1-1 | MASTER 2 OUT - | out | MASTER 2 OUT - | high |
+| P1-2 | INTERNALLY CONNECTED | other |  | high |
+| P1-3 | SUB 4 OUT - | out | SUB 4 OUT - | high |
+| P1-4 | SUB 2 OUT - | out | SUB 2 OUT - | high |
+| P1-5 | MASTER 1 OUT - | out | MASTER 1 OUT - | high |
+| P1-6 | INTERNALLY CONNECTED | other |  | high |
+| P1-7 | SUB 3 OUT - | out | SUB 3 OUT - | high |
+| P1-8 | SUB 1 OUT - | out | SUB 1 OUT - | high |
+| P1-9 | AUX 4 OUT - | out | AUX 4 OUT - | high |
+| P1-10 | AUX 3 OUT - | out | AUX 3 OUT - | high |
+| P1-11 | AUX 2 OUT - | out | AUX 2 OUT - | high |
+| P1-12 | AUX 1 OUT - | out | AUX 1 OUT - | high |
+| P1-13 | PFL - | bus | PFL - | high |
+| P1-14 | SOLO - | bus | SOLO - | high |
+| P1-15 | N/C | nc |  | high |
+| P1-16 | N/C | nc |  | high |
+| P1-17 | N/C | nc |  | high |
+| P1-18 | N/C | nc |  | high |
+| P1-19 | MIC 1 - | in | MIC 1 - | high |
+| P1-20 | MIC 2 - | in | MIC 2 - | high |
+| P1-21 | MIC SHIELD | shield | shield | high |
+| P1-22 | EQUALIZER RETURN | insert_return | EQUAL IN | high |
+| P1-A | MASTER 2 OUT + | out | MASTER 2 OUT + | high |
+| P1-B | INTERNALLY CONNECTED | other |  | high |
+| P1-C | SUB 4 OUT + | out | SUB 4 OUT + | high |
+| P1-D | SUB 2 OUT + | out | SUB 2 OUT + | high |
+| P1-E | MASTER 1 OUT + | out | MASTER 1 OUT + | high |
+| P1-F | INTERNALLY CONNECTED | other |  | high |
+| P1-H | SUB 3 OUT + | out | SUB 3 OUT + | high |
+| P1-J | SUB 1 OUT + | out | SUB 1 OUT + | high |
+| P1-K | AUX 4 OUT + | out | AUX 4 OUT + | high |
+| P1-L | AUX 3 OUT + | out | AUX 3 OUT + | high |
+| P1-M | AUX 2 OUT + | out | AUX 2 OUT + | high |
+| P1-N | AUX 1 OUT + | out | AUX 1 OUT + | high |
+| P1-P | PFL + | bus | PFL + | high |
+| P1-R | SOLO + | bus | SOLO + | high |
+| P1-S | N/C | nc |  | high |
+| P1-T | N/C | nc |  | high |
+| P1-U | N/C | nc |  | high |
+| P1-V | N/C | nc |  | high |
+| P1-W | MIC 1 + | in | MIC 1 + | high |
+| P1-X | MIC 2 + | in | MIC 2 + | high |
+| P1-Y | MIC SHIELD | shield | shield | high |
+| P1-Z | EQUALIZER SEND | insert_send | EQUAL OUT | high |
+| P2-1 | LINE IN - | in | LINE IN - | high |
+| P2-2 | N/C | nc |  | high |
+| P2-3 | DIRECT - | out | DIRECT - | high |
+| P2-4 | SHIELD | shield | LINE IN shield | high |
+| P2-5 | ATT OUT - | out | ATT OUT - | high |
+| P2-6 | CH ON IN - | control_in | CH ON IN - | high |
+| P2-7 | CH ON OUT - | control_out | CH ON OUT - | high |
+| P2-8 | PRE OUT - | out | PRE OUT - | high |
+| P2-9 | N/C | nc |  | high |
+| P2-10 | MASTER 2 CTL | control_out | MASTER 2 CTL | high |
+| P2-11 | N/C | nc |  | high |
+| P2-12 | SUB 4 CTL | control_out | SUB 4 CTL | high |
+| P2-13 | SUB 2 CTL | control_out | SUB 2 CTL | high |
+| P2-14 | MASTER CTL COMMON | ground |  | high |
+| P2-15 | CH ON AUX CONTACT - | control_out | CH ON AUX CONTACT - | high |
+| P2-16 | CTL COMMON | ground |  | high |
+| P2-17 | MIC 2 MUTE CTL | control_in | MIC 2 MUTE CTL | high |
+| P2-18 | CTL COMMON | ground |  | high |
+| P2-19 | -25 V | power |  | high |
+| P2-20 | 25 V COMMON | ground |  | high |
+| P2-21 | +25 V | power |  | high |
+| P2-22 | CHASSIS GROUND | ground |  | high |
+| P2-A | LINE IN + | in | LINE IN + | high |
+| P2-B | N/C | nc |  | high |
+| P2-C | DIRECT + | out | DIRECT + | high |
+| P2-D | SHIELD | shield | LINE IN shield | high |
+| P2-E | ATT OUT + | out | ATT OUT + | high |
+| P2-F | CH ON IN + | control_in | CH ON IN + | high |
+| P2-H | CH ON OUT + | control_out | CH ON OUT + | high |
+| P2-J | PRE OUT + | out | PRE OUT + | high |
+| P2-K | N/C | nc |  | high |
+| P2-L | MASTER 1 CTL | control_out | MASTER 1 CTL | high |
+| P2-M | N/C | nc |  | high |
+| P2-N | SUB 3 CTL | control_out | SUB 3 CTL | high |
+| P2-P | SUB 1 CTL | control_out | SUB 1 CTL | high |
+| P2-R | SUB CTL COMMON | ground |  | high |
+| P2-S | CH ON AUX CONTACT + | control_out | CH ON AUX CONTACT + | high |
+| P2-T | LINE MUTE CTL | control_in | LINE MUTE CTL | high |
+| P2-U | MIC 1 MUTE CTL | control_in | MIC 1 MUTE CTL | high |
+| P2-V | SOLO CTL | control_out | SOLO CTL | high |
+| P2-W | CH ON CTL COMMON | ground |  | high |
+| P2-X | MIC/LINE CTL COMMON | ground |  | high |
+| P2-Y | +24 V | power |  | high |
+| P2-Z | CH ON LAMP | control_in | CH ON LAMP | high |
 
-**Straps:** CH ON LAMP: JMP.Z.W · CH ON GND : JMP.2 · 24V Jumper: JMP.Y.21 · CH ON GND : JMP.20.18 · Insert +: JMP.8.6 · Insert -: JMP.J.F · Fader +: JMP.7.5 · Fader - : JMP.H.E · EQ BYPASS: JMP.Z.22
+**Straps:** JMP.Z.W: P2-Z P2-W · JMP.2: P2-W P2-18 · JMP.Y.21: P2-Y P2-21 · JMP.20.18: P2-20 P2-18 · JMP.8.6: P2-8 P2-6 · JMP.J.F: P2-J P2-F · JMP.7.5: P2-7 P2-5 · JMP.H.E: P2-H P2-E · JMP.Z.22: P1-Z P1-22
 
 ## Manuals and documents
 
