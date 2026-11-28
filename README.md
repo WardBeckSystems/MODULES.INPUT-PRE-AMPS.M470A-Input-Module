@@ -1,6 +1,6 @@
 # M470A Input Module · Input Pre Amps
 
-Ward-Beck Systems M470A, 1977|10. Wiki page: [M470A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M470A.html)
+Ward-Beck Systems M470A, 1977|10. Wiki page: [M470A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470A-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

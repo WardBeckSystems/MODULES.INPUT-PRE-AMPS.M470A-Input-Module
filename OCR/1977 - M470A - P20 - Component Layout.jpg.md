@@ -1,5 +1,5 @@
 # 1977 - M470A - P20 - Component Layout.jpg
-Wiki page: [M470A](../../../../PAGES/M470A.md)
+Wiki page: [M470A](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

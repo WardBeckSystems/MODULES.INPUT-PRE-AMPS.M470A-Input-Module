@@ -1,5 +1,5 @@
 # 1977 - M470A - wbsps - module - m470a input module 012_small.jpg
-Wiki page: [M470A](../../../../PAGES/M470A.md)
+Wiki page: [M470A](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

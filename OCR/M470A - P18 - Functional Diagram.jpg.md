@@ -1,5 +1,5 @@
 # M470A - P18 - Functional Diagram.jpg
-Wiki page: [M470A](../../../../PAGES/M470A.md)
+Wiki page: [M470A](../)
 
 
 - **Year:** unknown (title block (read by eye))

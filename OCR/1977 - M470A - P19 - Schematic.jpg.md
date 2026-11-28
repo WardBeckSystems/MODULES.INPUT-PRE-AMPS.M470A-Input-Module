@@ -1,5 +1,5 @@
 # 1977 - M470A - P19 - Schematic.jpg
-Wiki page: [M470A](../../../../PAGES/M470A.md)
+Wiki page: [M470A](../)
 
 
 - **Year:** 1977 (module estimate (labelled))

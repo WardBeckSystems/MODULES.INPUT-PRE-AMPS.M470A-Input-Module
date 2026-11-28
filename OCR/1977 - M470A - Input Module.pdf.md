@@ -1,5 +1,5 @@
 # 1977 - M470A - Input Module.pdf
-Wiki page: [M470A](../../../../PAGES/M470A.md)
+Wiki page: [M470A](../)
 
 
 - **Year:** 1977 (found in this file: "DATE MAY 77")
