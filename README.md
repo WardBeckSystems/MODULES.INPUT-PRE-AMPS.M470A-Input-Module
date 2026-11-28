@@ -4,13 +4,12 @@ Ward-Beck Systems M470A, 1977|10. Wiki page: [M470A on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 21 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 211 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 32 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 20 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 210 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 31 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 58 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -187,6 +186,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTWJSMUZ0azV3cnc/view?resourcekey=0-6FYv6yhvIczHeU6uRKSMxQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTWJSMUZ0azV3cnc&resourcekey=0-6FYv6yhvIczHeU6uRKSMxQ" width="240" alt="1977 - M470A - 470-04-006 - IGNA FOL OWING CHE FADER AND CRA SWITCH.jpg"></a><br><sub>1977|10 · 470-04-006 - IGNA FOL OWING CHE FADER AND CRA SWITCH · <a href="MECHANICAL/1977%20-%20M470A%20-%20470-04-006%20-%20IGNA%20FOL%20OWING%20CHE%20FADER%20AND%20CRA%20SWITCH%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M470A.stl`](MECHANICAL/M470A.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M470A)
+
+- **Size:** 50.3 × 304.42 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 32 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M470A - front panel.svg`)
+- the drawn panel is 0.11 wide to high, the size 0.17: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M470A.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -197,8 +205,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 
 Shared privately on Google Drive (opens after sign-in): [1977|10 · P20 - Component Layout (2)](https://drive.google.com/file/d/0B0yR0b5T78SKcFdPamJUWjc1OE0/view?resourcekey=0-T9z_5znSj_Q6CdNedLluLQ)
 
-Not on Google Drive yet: `M470A - P18 - Functional Diagram.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -206,8 +212,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKU1JGN3NLN0VqWGM/view?resourcekey=0-sb5RyfxJer8K8aYa2sph6g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKU1JGN3NLN0VqWGM&resourcekey=0-sb5RyfxJer8K8aYa2sph6g" width="240" alt="1977 - M470A - 470-04-005 - FIMISH NPUT MODULE CONNECTOR REAR VIEW.jpg"></a><br><sub>1977|10 · 470-04-005 - FIMISH NPUT MODULE CONNECTOR REAR VIEW · <a href="PINOUTS/1977%20-%20M470A%20-%20470-04-005%20-%20FIMISH%20NPUT%20MODULE%20CONNECTOR%20REAR%20VIEW%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M470A - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -340,7 +344,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1977 - M470A - P19 - Schematic.kicad_sch](KICAD/1977%20-%20M470A%20-%20P19%20-%20Schematic.kicad_sch)
 - [M470A - P18 - Functional Diagram.kicad_sch](KICAD/M470A%20-%20P18%20-%20Functional%20Diagram.kicad_sch)
 - [M470A.kicad_sym](KICAD/M470A.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
